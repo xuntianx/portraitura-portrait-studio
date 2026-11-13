@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "scope": "PORTRAITURA only; painting and sketch are skill modes, not claimed official artist taxonomy.",
+  "series_url": "https://www.artofrostov.com/drop2-portraitura-main",
+  "assembled_at": "2026-11-13T08:12:34.227680+00:00",
+  "credit_lines": [
+    "AI-generated portrait",
+    "Visual inspiration: @artofrostov / PORTRAITURA"
+  ],
+  "rights_note": "Original reference artwork belongs to Aleksander Rostov. Included as visual references with provenance; no public redistribution license established, no endorsement claimed, and no artwork rights are sublicensed by this repository.",
+  "items": [
+    {
+      "id": "painting-somber",
+      "mode": "painting",
+      "title": "Somber",
+      "file": "assets/painting/somber.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": 2023,
+      "year_note": "Individual year stated on official artwork page.",
+      "source_pages": [
+        "https://www.artofrostov.com/d2-portraitura-1-somber"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/92c8b028-5c39-44dd-88d2-9bf8e47a6acf/port1c.jpg",
+      "width": 1714,
+      "height": 2400,
+      "bytes": 482960,
+      "sha256": "622b5191d5eac3e52347ad7b8881400a1c7350a2cba848976d7e04fdfdcaa403",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided"
+    },
+    {
+      "id": "painting-perfume",
+      "mode": "painting",
+      "title": "Perfume",
+      "file": "assets/painting/perfume.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": 2023,
+      "year_note": "Individual year stated on official artwork page.",
+      "source_pages": [
+        "https://www.artofrostov.com/d2-portraitura-2-perfume"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/715bce11-f775-4f65-b9b8-a6f18121a448/perfume2.jpg",
+      "width": 2000,
+      "height": 2715,
+      "bytes": 641776,
+      "sha256": "3e86ca0420caa88b7b709c4ec26149ce1ec3ad479e83e4c7e80fdbec5cfbe91b",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided"
+    },
+    {
+      "id": "painting-anxiety",
+      "mode": "painting",
+      "title": "Anxiety",
+      "file": "assets/painting/anxiety.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": 2024,
+      "year_note": "Individual year stated on official artwork page.",
+      "source_pages": [
+        "https://www.artofrostov.com/d2-portraitura-3-anxiety"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/52404618-150c-4a6e-a6cb-49ffc5b6ea09/Anxiety.jpg",
+      "width": 1619,
+      "height": 2000,
+      "bytes": 657025,
+      "sha256": "cfe20fa21a44c064ea412d01ef7c2bb82e00eff66377d017d1d3001770cebd6f",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided"
+    },
+    {
+      "id": "painting-trauma",
+      "mode": "painting",
+      "title": "Trauma",
+      "file": "assets/painting/trauma.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": 2024,
+      "year_note": "Individual year stated on official artwork page.",
+      "source_pages": [
+        "https://www.artofrostov.com/d2-portraitura-4-trauma"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/37bcb5e0-384d-42d2-a100-b7b97c1afae0/Portrait%2C+Trauma+%282023%29.jpg",
+      "width": 2500,
+      "height": 3460,
+      "bytes": 1951039,
+      "sha256": "7c5cf3fdda2b9f698cb1195ad7cd7a565dcdd8d96aed9e22721901e82fb9b928",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided"
+    },
+    {
+      "id": "painting-anime",
+      "mode": "painting",
+      "title": "Anime",
+      "file": "assets/painting/anime.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": 2024,
+      "year_note": "Individual year stated on official artwork page.",
+      "source_pages": [
+        "https://www.artofrostov.com/d2-portraitura-5-anime"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/537a4333-8ab2-4637-a9d6-a5ad3b29e5f0/clipfacer10.jpg",
+      "width": 2400,
+      "height": 3000,
+      "bytes": 1666899,
+      "sha256": "c655882181cedb9044384a87dcf207db5bd0683b03b0ecdb993343b996f3a935",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided"
+    },
+    {
+      "id": "sketch-01",
+      "mode": "sketch",
+      "title": "Sketch 01 (local index; official group: Sketches of Faces)",
+      "file": "assets/sketch/sketch-01.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": null,
+      "year_note": "Group dated 2025, 2026; individual year not supplied.",
+      "source_pages": [
+        "https://www.artofrostov.com/drop2-portraitura-main",
+        "https://www.artofrostov.com/d2-portraitura-7-sketches"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/2f987980-8eca-4060-9274-789bf452f3d9/FacesKylebrush.JPG",
+      "width": 2500,
+      "height": 3690,
+      "bytes": 508250,
+      "sha256": "b1ab9537362463989ce4c9eeec7c2c46360d5961fab59206ee5c964c9b9fe438",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided",
+      "group_context_url": "https://www.artofrostov.com/d2-portraitura-7-sketches"
+    },
+    {
+      "id": "sketch-02",
+      "mode": "sketch",
+      "title": "Sketch 02 (local index; official group: Sketches of Faces)",
+      "file": "assets/sketch/sketch-02.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": null,
+      "year_note": "Group dated 2025, 2026; individual year not supplied.",
+      "source_pages": [
+        "https://www.artofrostov.com/drop2-portraitura-main"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/4dec36e3-83f1-42ac-97ef-83320c4d42b7/FacesInktober.jpg",
+      "width": 2500,
+      "height": 3788,
+      "bytes": 482165,
+      "sha256": "ba319db2f31937572ece63cb4de6550055578552b1139ac014639851b4f7eb88",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided",
+      "group_context_url": "https://www.artofrostov.com/d2-portraitura-7-sketches"
+    },
+    {
+      "id": "sketch-03",
+      "mode": "sketch",
+      "title": "Sketch 03 (local index; official group: Sketches of Faces)",
+      "file": "assets/sketch/sketch-03.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": null,
+      "year_note": "Group dated 2025, 2026; individual year not supplied.",
+      "source_pages": [
+        "https://www.artofrostov.com/drop2-portraitura-main",
+        "https://www.artofrostov.com/d2-portraitura-7-sketches"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/457d3d3b-ea97-4208-a3d6-8c3481e6d216/faces02.jpg",
+      "width": 2500,
+      "height": 3690,
+      "bytes": 885769,
+      "sha256": "a54f2c2db458215ba3f8ead48da9aecf3d9ffcadbc4e6b35f194b8d31a6bb33b",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided",
+      "group_context_url": "https://www.artofrostov.com/d2-portraitura-7-sketches"
+    },
+    {
+      "id": "sketch-04",
+      "mode": "sketch",
+      "title": "Sketch 04 (local index; official group: Sketches of Faces)",
+      "file": "assets/sketch/sketch-04.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": null,
+      "year_note": "Group dated 2025, 2026; individual year not supplied.",
+      "source_pages": [
+        "https://www.artofrostov.com/drop2-portraitura-main",
+        "https://www.artofrostov.com/d2-portraitura-7-sketches"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/17228c1d-b2b1-4731-93de-ee6e0fc6ecc2/faces01.jpg",
+      "width": 2500,
+      "height": 3690,
+      "bytes": 317851,
+      "sha256": "f4514c99aa02810604f01d78b89b1e7341d63e1ce7069b82c224d2cb4af73f5c",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided",
+      "group_context_url": "https://www.artofrostov.com/d2-portraitura-7-sketches"
+    },
+    {
+      "id": "sketch-05",
+      "mode": "sketch",
+      "title": "Sketch 05 (local index; official group: Sketches of Faces)",
+      "file": "assets/sketch/sketch-05.jpg",
+      "artist": "Aleksander Rostov",
+      "artist_handle": "@artofrostov",
+      "series": "PORTRAITURA",
+      "artwork_year": null,
+      "year_note": "Group dated 2025, 2026; individual year not supplied.",
+      "source_pages": [
+        "https://www.artofrostov.com/drop2-portraitura-main",
+        "https://www.artofrostov.com/d2-portraitura-7-sketches"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/6825f518746d492dd6d80c9c/9efbbdb5-af0f-4546-aac3-e0455ac34a91/Faces17.jpg",
+      "width": 2500,
+      "height": 3690,
+      "bytes": 713181,
+      "sha256": "8de46cba7c77a5cb06429c149e3d99e6cbdf7df18ade697144dbbc4a30e06d27",
+      "collected_at": "2026-11-13T02:36:44.235801+00:00",
+      "source_modified_at": "not provided",
+      "group_context_url": "https://www.artofrostov.com/d2-portraitura-7-sketches"
+    }
+  ]
+}

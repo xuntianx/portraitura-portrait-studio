@@ -1,0 +1,4 @@
+interface:
+  display_name: "PORTRAITURA 肖像工作室"
+  short_description: "选择绘画肖像或肖像速写，结合本人照片与自我描述，描绘可辨认的个人肖像"
+  default_prompt: "使用 $portraitura-portrait-studio，让我先选择绘画肖像或肖像速写，再根据我的照片和自我描述创作肖像。"

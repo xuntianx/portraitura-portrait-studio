@@ -1,0 +1,17 @@
+# Personal inputs, generated outputs and local credentials
+.env
+.env.*
+!.env.example
+credentials*
+*.pem
+*.key
+inputs/
+outputs/
+generated_images/
+portrait-notes.md
+portrait-prompt.txt
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
